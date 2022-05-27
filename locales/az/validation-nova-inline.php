@@ -12,6 +12,6 @@
 */
 
 return [
-    'attached'  => 'Bu sahə artıq əlavə olunur.',
-    'relatable' => 'Bu sahədə bu resurs ilə bağlı ola bilər.',
+    'attached'  => 'Artıq əlavə olunub.',
+    'relatable' => 'Obyekt bu resursla əlaqələndirilə bilməz.',
 ];

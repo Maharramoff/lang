@@ -12,6 +12,6 @@
 */
 
 return [
-    'attached'  => 'Bu :attribute artıq əlavə olunur.',
-    'relatable' => 'Bu :attribute il bu resurs ilə bağlı ola bilər.',
+    'attached'  => 'Artıq əlavə olunub.',
+    'relatable' => 'Obyekt bu resursla əlaqələndirilə bilməz.',
 ];

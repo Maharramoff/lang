@@ -12,7 +12,7 @@
 */
 
 return [
-    'failed'   => 'İstifadəçi adı və ya şifrə səhvdir',
-    'password' => 'The provided password is incorrect.',
-    'throttle' => ':seconds saniyə ərzində yenidən cəhd edin',
+    'failed'   => 'İstifadəçi adı və ya şifrə yanlışdır.',
+    'password' => 'Şifrə yanlışdır.',
+    'throttle' => 'Həddindən artıq giriş cəhdi aşkarlandı. Lütfən, :saniyə saniyədən sonra yenidən cəhd edin.',
 ];
